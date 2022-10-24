@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ejercicios Cuarta Seman:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ejercicios_Cuarta_Seman_jar3</output-path>
+    <root id="archive" name="Ejercicios Cuarta Seman.jar">
+      <element id="module-output" name="Ejercicios Cuarta Seman" />
+    </root>
+  </artifact>
+</component>
